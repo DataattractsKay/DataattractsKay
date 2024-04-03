@@ -1,11 +1,7 @@
 ![MasterHead](https://flush-user-images.s3.amazonaws.com/generated_images/36eb5926491d0abd73705e268b0f5302b82bee6af4e6a4adac58f338197b0a3c/image_19.jpg)
 <h1 align="center">Hi 👋, I'm Kay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer and Data Scientist from India</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966”>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dataattractskay&label=Profile%20views&color=0e75b6&style=flat" alt="dataattractskay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dataattractskay" alt="dataattractskay" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR1ZGRib3FrcHFkazc2ZmF6dm0zOXVzcHJhbHRkdG9vbGhwMXg3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 - 🔭 I’m currently working on **Toe Tac Tic**
 
@@ -23,10 +19,6 @@
 
 - ⚡ Fun fact **I deceive the first two lines: Jack of all trades, master of none,But strongly believes in: Though oftentimes better than a master of one.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ka-nick-ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ka-nick-ka/" height="30" width="40" /></a>
@@ -42,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dataattractskay&show_icons=true&locale=en" alt="dataattractskay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dataattractskay&" alt="dataattractskay" /></p>
+
+
+
+
