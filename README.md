@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ka-nick-ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ka-nick-ka/" height="30" width="40" /></a>
 <a href="https://medium.com/@kanikavarandani2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanikavarandani2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ka_nick_ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ka_nick_ka/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ka_nick_ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ka_nick_ka/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
