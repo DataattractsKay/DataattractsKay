@@ -15,7 +15,7 @@
 
 - 🎖️ A little more about me on [CV](https://docs.google.com/presentation/d/1hgmHCvxWvgf4RwodBojcbDviDgJ9dgDa45dpYet_jOw/edit?usp=sharing)
 
-- 💬 Ask me about **Python, Statistics, Data (I love it!)**
+- 💬 Ask me about **Python, GenAI, Statistics, Data (I love it!)**
 
 - 📫 How to reach me **kanikavarandani2002@gmail.com**
 
