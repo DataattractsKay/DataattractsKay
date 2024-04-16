@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kanikavarandani2002@gmail.com**
 
-- ⚡ Fun fact **I deceive the first two lines: Jack of all trades, master of none,But strongly believes in: Though oftentimes better than a master of one.**
+- ⚡ Fun fact **I deceive the first two lines:** Jack of all trades, master of none, **But strongly believes in:** Though oftentimes better than a master of one.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
