@@ -11,7 +11,9 @@
 
 - 🤝 I’m looking for help with **DCarb - Prediction**
 
-- 📝 I regularly write articles on [https://medium.com/@kanikavarandani2002](https://medium.com/@kanikavarandani2002)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kanikavarandani2002)
+
+- 🎖️ A little more about me on [CV](https://docs.google.com/presentation/d/1hgmHCvxWvgf4RwodBojcbDviDgJ9dgDa45dpYet_jOw/edit?usp=sharing)
 
 - 💬 Ask me about **Python, Statistics, Data (I love it!)**
 
