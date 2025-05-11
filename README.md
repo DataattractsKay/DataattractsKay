@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.pexels.com/photo/woman-in-green-jacket-holding-smartphone-4482013/.jpg" alt="Coding GIF" width="400">
+  <img src="https://drive.google.com/file/d/1TglRskE6qEkmNnSA0VA1MEgodc3S-WQw/view?usp=sharing" alt="Welcome" width="400">
 </p>
 
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Kay</h1>
