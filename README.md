@@ -1,5 +1,7 @@
 
-<img align="centre" width="400" src="https://www.pexels.com/photo/woman-in-green-jacket-holding-smartphone-4482013/">
+<p align="center">
+  <img src="https://www.pexels.com/photo/woman-in-green-jacket-holding-smartphone-4482013/.jpg" alt="Coding GIF" width="400">
+</p>
 
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Kay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer and Data Scientist from India</h3>
