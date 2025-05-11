@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1TglRskE6qEkmNnSA0VA1MEgodc3S-WQw/view?usp=sharing" alt="Welcome" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=1TglRskE6qEkmNnSA0VA1MEgodc3S-WQw" alt="Welcome" width="400">
 </p>
+
+
 
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Kay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer and Data Scientist from India</h3>
