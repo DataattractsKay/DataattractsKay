@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.imgur.com/UXUSkrG.png)
+![MasterHead]([https://i.imgur.com/UXUSkrG.png](https://drive.google.com/file/d/1TglRskE6qEkmNnSA0VA1MEgodc3S-WQw/view?usp=sharing))
 <h1 align="center">Hey 🙋🏻‍♀️, I'm Kay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer and Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR1ZGRib3FrcHFkazc2ZmF6dm0zOXVzcHJhbHRkdG9vbGhwMXg3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
