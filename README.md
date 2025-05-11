@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1uHaqodpKNxKCxjNnqX3QE721Go5pfPi2" alt="Image 2" width="500">
-  <img src="https://drive.google.com/uc?export=view&id=16fBqMJ9VguHptsiUKotIRI8mJ10dKyMz" alt="Image 3" width="500">
+  <img src="https://drive.google.com/uc?export=view&id=1uHaqodpKNxKCxjNnqX3QE721Go5pfPi2" alt="Image 2" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=16fBqMJ9VguHptsiUKotIRI8mJ10dKyMz" alt="Image 3" width="400">
 </p>
 
 
